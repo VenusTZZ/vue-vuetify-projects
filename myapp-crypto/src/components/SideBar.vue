@@ -37,7 +37,7 @@
           </v-badge>
           <h4 class="grey--text">我的账户</h4>
           <h2>$852.50</h2>
-          <h5 class="green--text">今日新增:￥583.4</h5>
+          <h5 class="green--text">今日收益:$583.4</h5>
           <v-card color="deep-purple" dark class="mt-5">
             <v-list-item two-line>
               <v-list-item-content>
